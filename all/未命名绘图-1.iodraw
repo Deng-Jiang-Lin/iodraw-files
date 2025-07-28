@@ -65,7 +65,10 @@
           <mxGeometry x="670" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-29" value="一阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="354" y="40" width="60" height="30" as="geometry" />
+          <mxGeometry x="200" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
