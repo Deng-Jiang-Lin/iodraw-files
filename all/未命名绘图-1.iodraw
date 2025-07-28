@@ -49,6 +49,9 @@
         <mxCell id="wq4GXHfrME9Frb-wlCct-18" value="生成节点名称结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="310" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-21" value="基于检测节点构建协议检测数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
