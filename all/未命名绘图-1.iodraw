@@ -76,6 +76,9 @@
         <mxCell id="wq4GXHfrME9Frb-wlCct-28" value="一阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230" y="95" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-29" value="一阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
