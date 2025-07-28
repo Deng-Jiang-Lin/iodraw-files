@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="0iLHGT8ZTCql2-T6_RBU">
-    <mxGraphModel dx="744" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,11 +43,20 @@
         <mxCell id="wq4GXHfrME9Frb-wlCct-15" value="基于检测节点构建OCR数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="125" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-17" target="wq4GXHfrME9Frb-wlCct-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-17" value="生成协议检测结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="310" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-18" target="wq4GXHfrME9Frb-wlCct-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-18" value="生成节点名称结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-21" target="wq4GXHfrME9Frb-wlCct-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-21" value="合成最终结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="305" width="100" height="50" as="geometry" />
