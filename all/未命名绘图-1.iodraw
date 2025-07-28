@@ -10,7 +10,7 @@
         <mxCell id="wq4GXHfrME9Frb-wlCct-2" value="构建节点数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="110" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wq4GXHfrME9Frb-wlCct-3" value="构建数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wq4GXHfrME9Frb-wlCct-3" value="构建协议数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
