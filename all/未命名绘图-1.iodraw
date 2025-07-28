@@ -10,17 +10,35 @@
         <mxCell id="wq4GXHfrME9Frb-wlCct-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-2" target="wq4GXHfrME9Frb-wlCct-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wq4GXHfrME9Frb-wlCct-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-4" target="wq4GXHfrME9Frb-wlCct-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wq4GXHfrME9Frb-wlCct-4" value="基于检测节点构建协议检测数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="280" width="100" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-1" target="wq4GXHfrME9Frb-wlCct-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-8" target="wq4GXHfrME9Frb-wlCct-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-28" value="一阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="670" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-2" value="构建节点数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="130" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-8" value="训练节点检测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-29" value="一阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-4" target="wq4GXHfrME9Frb-wlCct-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-4" value="基于检测节点构建协议检测数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="280" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-10" target="wq4GXHfrME9Frb-wlCct-17">
           <mxGeometry relative="1" as="geometry" />
@@ -54,24 +72,6 @@
         </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-23" value="微调OCR检测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wq4GXHfrME9Frb-wlCct-28" value="一阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="670" y="500" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wq4GXHfrME9Frb-wlCct-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="50" y="120" width="190" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="wq4GXHfrME9Frb-wlCct-2" value="构建节点数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="130" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wq4GXHfrME9Frb-wlCct-8" value="训练节点检测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="200" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wq4GXHfrME9Frb-wlCct-29" value="一阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="180" y="170" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wq4GXHfrME9Frb-wlCct-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="60" y="130" width="190" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
