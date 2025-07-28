@@ -28,10 +28,16 @@
         <mxCell id="wq4GXHfrME9Frb-wlCct-8" value="训练节点检测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="130" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-10" target="wq4GXHfrME9Frb-wlCct-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-10" value="训练协议检测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="225" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-4" target="wq4GXHfrME9Frb-wlCct-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wq4GXHfrME9Frb-wlCct-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-15" target="wq4GXHfrME9Frb-wlCct-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-15" value="基于检测节点构建OCR数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
