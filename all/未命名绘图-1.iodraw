@@ -7,14 +7,13 @@
         <mxCell id="wq4GXHfrME9Frb-wlCct-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wq4GXHfrME9Frb-wlCct-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-2" target="wq4GXHfrME9Frb-wlCct-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="wq4GXHfrME9Frb-wlCct-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wq4GXHfrME9Frb-wlCct-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-2" value="构建节点数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="110" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wq4GXHfrME9Frb-wlCct-3" value="构建协议数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="90" height="40" as="geometry" />
+          <mxGeometry x="80" y="130" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wq4GXHfrME9Frb-wlCct-4" value="构建OCR数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="280" width="90" height="40" as="geometry" />
